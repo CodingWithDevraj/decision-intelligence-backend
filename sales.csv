@@ -1,0 +1,5 @@
+product,price,quantity,region,cost
+A,100,2,North,60
+B,200,1,South,120
+C,150,3,East,90
+A,100,1,West,60

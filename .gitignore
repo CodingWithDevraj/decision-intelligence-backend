@@ -1,0 +1,56 @@
+# Environment variables
+
+.env
+.env.*
+
+#  Python (Backend)
+
+**pycache**/
+*.pyc
+*.pyo
+*.pyd
+*.sqlite3
+*.db
+
+# Virtual environment
+
+venv/
+env/
+ENV/
+
+# Logs
+
+*.log
+
+# Node (Frontend)
+
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Build folders
+
+build/
+dist/
+
+# OS files
+
+.DS_Store
+Thumbs.db
+
+# VS Code / IDE
+
+.vscode/
+.idea/
+
+
+# Deployment
+
+.vercel
+.render
+
+#  Misc
+
+*.bak
+*.tmp
